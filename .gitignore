@@ -1,4 +1,1 @@
-.quarto
-*__pycache__*
-*.code-workspace
-/.quarto/
+node_modules

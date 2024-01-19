@@ -1,0 +1,17 @@
+# Site settings
+title: GospelNnadi 
+header-img: assets/profile.png
+email: gospelnnadi@gmail.com
+description: "Just a few posts to share my work as a data scientist with you."
+baseurl: ""
+url: ""
+linkedin_username: gospelnnadi
+github_username:  gospelnnadi
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
